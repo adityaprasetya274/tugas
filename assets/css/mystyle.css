@@ -1,0 +1,9 @@
+
+
+.tb-detail > thead > tr > th, .tb-detail > tbody > tr > th, .tb-detail > tfoot > tr > th, .tb-detail > thead > tr > td, .tb-detail > tbody > tr > td, .tb-detail > tfoot > tr > td {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+     border-top: 0px  
+}
+
